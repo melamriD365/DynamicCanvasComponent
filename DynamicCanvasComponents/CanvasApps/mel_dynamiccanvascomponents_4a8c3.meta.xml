@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>mel_dynamiccanvascomponents_4a8c3</Name>
-  <AppVersion>2024-09-16T18:16:28Z</AppVersion>
+  <AppVersion>2024-09-16T21:19:57Z</AppVersion>
   <Status>Ready</Status>
   <CreatedByClientVersion>3.24091.13.0</CreatedByClientVersion>
   <MinClientVersion>3.24091.13.0</MinClientVersion>
-  <Tags>{"primaryDeviceWidth":"1000","primaryDeviceHeight":"600","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Phone","showStatusBar":"false","publisherVersion":"3.24091.13","minimumRequiredApiVersion":"2.2.0","hasComponent":"true","hasUnlockedComponent":"true","isUnifiedRootApp":"false","sienaVersion":"20240916T180444Z-3.24091.13.0"}</Tags>
+  <Tags>{"primaryDeviceWidth":"1000","primaryDeviceHeight":"600","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Phone","showStatusBar":"false","publisherVersion":"3.24091.13","minimumRequiredApiVersion":"2.2.0","hasComponent":"true","hasUnlockedComponent":"true","isUnifiedRootApp":"false","sienaVersion":"20240916T211255Z-3.24091.13.0"}</Tags>
   <IsCdsUpgraded>0</IsCdsUpgraded>
   <GalleryItemId xsi:nil="true"></GalleryItemId>
   <BackgroundColor>RGBA(251,101,60,1)</BackgroundColor>
@@ -16,7 +16,7 @@
   <AuthorizationReferences>[]</AuthorizationReferences>
   <ConnectionReferences>{}</ConnectionReferences>
   <DatabaseReferences>{}</DatabaseReferences>
-  <AppComponents>[{"appComponentName":"446364410f2643dfa2d332f82a4da445","displayName":"dynamicTable","appName":"97dea4a5-d0ec-4c39-8aab-6fe0e911fb20","appVersion":"2024-09-16T18:16:28Z","appComponentLibraryLogicalName":"mel_dynamiccanvascomponents_4a8c3","appDisplayName":"DynamicCanvasComponents","environmentName":"531dc50e-7ff0-4fa3-89a3-aa30b082ab5a","owner":{"id":"9acaacea-fcd3-4c5f-8bf5-7a1cbcfcf9fb","displayName":"Mehdi El Amri","email":"mehdi.elamri@3rdfloorsolutions.ca","type":"User","tenantId":"6d58c633-6a09-48e3-be1c-48b8864994f2","userPrincipalName":"mehdi.elamri@3rdfloorsolutions.ca"},"allowCustomization":true,"createdOn":"2024-09-16T18:03:14.371Z","lastModifiedOn":"2024-09-16T18:04:53.986Z","connectionReferences":{},"databaseReferences":{}}]</AppComponents>
+  <AppComponents>[{"appComponentName":"446364410f2643dfa2d332f82a4da445","displayName":"dynamicTable","appName":"97dea4a5-d0ec-4c39-8aab-6fe0e911fb20","appVersion":"2024-09-16T21:19:57Z","appComponentLibraryLogicalName":"mel_dynamiccanvascomponents_4a8c3","appDisplayName":"DynamicCanvasComponents","environmentName":"531dc50e-7ff0-4fa3-89a3-aa30b082ab5a","owner":{"id":"9acaacea-fcd3-4c5f-8bf5-7a1cbcfcf9fb","displayName":"Mehdi El Amri","email":"mehdi.elamri@3rdfloorsolutions.ca","type":"User","tenantId":"6d58c633-6a09-48e3-be1c-48b8864994f2","userPrincipalName":"mehdi.elamri@3rdfloorsolutions.ca"},"allowCustomization":true,"createdOn":"2024-09-16T18:03:14.371Z","lastModifiedOn":"2024-09-16T21:13:07.553Z","connectionReferences":{},"databaseReferences":{}}]</AppComponents>
   <AppComponentDependencies>[]</AppComponentDependencies>
   <CanConsumeAppPass>0</CanConsumeAppPass>
   <CanvasAppType>1</CanvasAppType>

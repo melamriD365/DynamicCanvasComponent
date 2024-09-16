@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>mel_dynamictablepoc_0fbb1</Name>
-  <AppVersion>2024-09-16T18:09:39Z</AppVersion>
+  <AppVersion>2024-09-16T21:23:54Z</AppVersion>
   <Status>Ready</Status>
   <CreatedByClientVersion>3.24091.13.0</CreatedByClientVersion>
   <MinClientVersion>3.24091.13.0</MinClientVersion>
-  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","showStatusBar":"false","publisherVersion":"3.24091.13","minimumRequiredApiVersion":"2.2.0","hasComponent":"true","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20240916T174206Z-3.24091.13.0"}</Tags>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","showStatusBar":"false","publisherVersion":"3.24091.13","minimumRequiredApiVersion":"2.2.0","hasComponent":"true","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20240916T180939Z-3.24091.13.0"}</Tags>
   <IsCdsUpgraded>0</IsCdsUpgraded>
   <GalleryItemId xsi:nil="true"></GalleryItemId>
   <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
@@ -17,7 +17,7 @@
   <ConnectionReferences>{"bebe7ee9-6749-437b-ba80-028f2656fd49":{"id":"/providers/microsoft.powerapps/apis/shared_sharepointonline","displayName":"SharePoint","iconUri":"https://connectoricons-prod.azureedge.net/u/jayawan/releases/v1.0.1697/1.0.1697.3786/sharepointonline/icon.png","dataSources":["Issue tracker"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"https://3fsi.sharepoint.com/sites/MehdiElAmri":{"dataSources":{"Issue tracker":{"tableName":"1d62fbd0-4dd2-4ac0-b6bc-b92542ceb6a0"}}}},"apiTier":"Standard"}}</ConnectionReferences>
   <DatabaseReferences>{"default.cds":{"databaseDetails":{"referenceType":"Environmental","environmentName":"default.cds","overrideValues":{"status":"NotSpecified","environmentVariableName":""}},"dataSources":{"Users":{"entitySetName":"systemusers","logicalName":"systemuser"}}}}</DatabaseReferences>
   <AppComponents>[]</AppComponents>
-  <AppComponentDependencies>[{"appComponentName":"446364410f2643dfa2d332f82a4da445","appName":"b4e624a8-d4ee-48ae-9953-ffccc3ff7f5f","appComponentLibraryName":"97dea4a5-d0ec-4c39-8aab-6fe0e911fb20","appComponentLibraryVersion":"2024-09-16T18:04:44Z","appComponentLibraryLogicalName":"mel_dynamiccanvascomponents_4a8c3","environmentName":"531dc50e-7ff0-4fa3-89a3-aa30b082ab5a"}]</AppComponentDependencies>
+  <AppComponentDependencies>[{"appComponentName":"446364410f2643dfa2d332f82a4da445","appName":"b4e624a8-d4ee-48ae-9953-ffccc3ff7f5f","appComponentLibraryName":"97dea4a5-d0ec-4c39-8aab-6fe0e911fb20","appComponentLibraryVersion":"2024-09-16T21:19:57Z","appComponentLibraryLogicalName":"mel_dynamiccanvascomponents_4a8c3","environmentName":"531dc50e-7ff0-4fa3-89a3-aa30b082ab5a"}]</AppComponentDependencies>
   <CanConsumeAppPass>1</CanConsumeAppPass>
   <CanvasAppType>0</CanvasAppType>
   <BypassConsent>0</BypassConsent>
