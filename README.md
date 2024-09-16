@@ -1,6 +1,6 @@
 # DynamicCanvasComponents 
 
-**DynamicCanvasComponents** is a library offering reusable components for Canvas Apps and Model-driven app Custom Pages.
+**DynamicCanvasComponents** is a library offering reusable components for Canvas Apps and Model-driven app Custom Pages. These components are designed using only no-code/low-code approaches, not PCF controls, making them accessible for all makers. This approach opens up opportunities for users to harness the full power of Power Apps without needing extensive coding knowledge.
 
 ## DynamicTable Component 📊
 
@@ -9,7 +9,7 @@ The **DynamicTable** component is designed to simplify data display by allowing 
 ### Installation and Setup 🚀
 
 1. **Download the Unmanaged Solution** 
-   - Download the latest unmanaged solution from the [Releases](#) section.
+   - Download the latest unmanaged solution from the [Releases](https://github.com/melamriD365/DynamicCanvasComponent/releases) section.
 
 2. **Install the Solution** 
    - Import the unmanaged solution into your Power Apps environment using the standard import process.
@@ -133,7 +133,7 @@ You can further customize the table's appearance by setting various properties:
 
 6. **`selectorPressedFill: Color.Transparent `** Ensures no color change when a row is pressed.
 
-### 9. Contributing 🤝
+## Contributing 🤝
 
 We welcome contributions from the community! To contribute to the **DynamicCanvasComponents** project:
 
