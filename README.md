@@ -132,3 +132,16 @@ You can further customize the table's appearance by setting various properties:
 5. **`selectorFill: RGBA(180, 214, 250, 0.25)`** Sets the default background color for the selector (first column) to a matching blue.
 
 6. **`selectorPressedFill: Color.Transparent `** Ensures no color change when a row is pressed.
+
+### 9. Contributing 🤝
+
+We welcome contributions from the community! To contribute to the **DynamicCanvasComponents** project:
+
+- **Example App**: Please refer to the included example Canvas App in the solution for guidance on how to use the components and ensure consistency.
+
+- **Pull Requests**: Feel free to submit pull requests with improvements, new features, or fixes. Make sure your changes are well-tested and documented.
+
+- **Issue Reporting**: If you encounter any issues or have feature suggestions, open an issue in the [Issues](https://github.com/melamriD365/DynamicCanvasComponent/issues) section.
+
+Your contributions help make this project better for everyone. Thank you for your support! 🙌
+
