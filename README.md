@@ -6,7 +6,6 @@
 
 The **DynamicTable** component is designed to simplify data display by allowing you to create a customizable table that can be reused across different screens and projects. It helps avoid the repetitive task of recreating tables for each data source and project, ensuring a consistent and efficient user experience.
 
-![dynamicTable_v010_1](https://github.com/melamriD365/DynamicCanvasComponent/blob/main/Screenshots/DynamicTable/dynamicTable_v010_1.png)
 
 ### Installation and Setup 🚀
 
@@ -53,6 +52,8 @@ Once the **DynamicTable** component is added to your app, you can configure it b
 ### 7. Examples 📸
 
 This section provides an example of how to configure the **DynamicTable** component with a JSON dataset and column settings.
+
+![dynamicTable_v010_1](https://github.com/melamriD365/DynamicCanvasComponent/blob/main/Screenshots/DynamicTable/dynamicTable_v010_1.png)
 
 #### Example Data 📝
 
